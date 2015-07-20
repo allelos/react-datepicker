@@ -1,6 +1,6 @@
 #React Datepicker
 
-A simple responsive date picker made with react and susy css.
+A simple, responsive, customizable date picker made with react and susy css.
 
 ## Demo
 
