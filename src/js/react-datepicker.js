@@ -177,7 +177,7 @@ var DateBox = React.createClass({
       }
       else {
         return (
-          <div className='date' key={index}>
+          <div className='empty-date' key={index}>
             <button className='date-button'>&nbsp;</button>
           </div>
         );
