@@ -15,5 +15,5 @@ In order to use the date picker, simply create a div with an **id** of
 
 ```html
 <div id='datepicker'>
-<div>
+</div>
 ```
