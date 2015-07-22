@@ -9,3 +9,13 @@ A simple, responsive, customizable date picker made with react and susy css.
 ## Demo
 
 [React Datepicker](https://allelos.github.io/react-datepicker)
+
+## Usage
+
+In order to use the date picker, simply create a div with an id of
+'datepicker' and the date picker will render itself.
+
+```html
+<div id='datepicker'>
+<div>
+```
